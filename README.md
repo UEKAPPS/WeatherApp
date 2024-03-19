@@ -27,6 +27,6 @@ Java ile derlenmiş açık kaynaklı bir hava durumu uygulamasıdır. JSON dosya
 
 ## Ekran Görüntüleri
 
-![Uygulama Ekran Görüntüsü](https://img.imgyukle.com/2024/03/19/y3qHXy.jpeg)
+### https://img.imgyukle.com/2024/03/19/y3qHXy.jpeg
 
   
